@@ -1,1 +1,9 @@
 # Chronic-Kidney-Disease-Screening-R
+
+Chronic Kidney Disease (CKD) is a progressive loss of kidney function over time that is linked to an increased risk of cardiovascular disease, kidney failure, and other complications. Because CKD is often asymptomatic, it is difficult to detect early, and the underlying cause is frequently unknown. Studies indicate that diabetes and hypertension are responsible for up to two-thirds of CKD cases. Identifying and treating CKD early can prevent its progression to end-stage kidney failure.
+
+In this analysis, we sought to identify clinical and sociodemographic factors that contribute to detecting individuals with CKD. We analyzed demographic and health information from two sets of data collected in 1999-2000 and 2001-2002, which included 6,000 individuals with and without CKD. Our findings indicate that age, hypertension, diabetes, weight, body mass index (BMI), and a history of cardiovascular disease are the primary risk factors for CKD. We also found that females and those with a family history of CKD are at high risk.
+
+Our analysis also highlights the limitations of the analytical techniques currently used to predict outcomes in CKD detection. By identifying these shortcomings, we hope to open up opportunities for improvement in the future.
+
+In conclusion, our findings underscore the importance of early identification and treatment of CKD, especially for individuals with risk factors such as diabetes, hypertension, and a family history of CKD. By identifying these risk factors, healthcare providers can take proactive measures to help prevent CKD from progressing to its end stage. We hope that our analysis will contribute to the development of more effective detection strategies and ultimately lead to better outcomes for individuals with CKD.
